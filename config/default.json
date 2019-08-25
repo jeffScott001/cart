@@ -1,0 +1,4 @@
+{
+  "MongoURI": "mongodb+srv://Waruingi001:Wamaeswamae1@cluster0-499ua.mongodb.net/shoe_details?retryWrites=true&w=majority",
+  "jwtSecret": "sl_myjwtSecret"
+}
